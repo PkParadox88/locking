@@ -1,1 +1,1 @@
-{"auto_running": "True", "auto_expire": "True", "vf_run": "True", "vf_slt": "True","member_2": {"vf_check": "TRUE"},"member_1": {"visto_register": "TRUE", "visto_book": "TRUE", "vf_register": "TRUE", "vf_book": "TRUE"}}
+{"auto_running": "True", "auto_expire": "True", "vf_run": "True", "vf_slt": "True","member_2": {"vf_check": "TRUE"},"member_1": {"visto_register": "TRUE", "visto_book": "TRUE", "vf_register": "TRUE", "vf_book": "TRUE"}, "member_3": {"vf_book": "TRUE"}
