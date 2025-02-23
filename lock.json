@@ -6,6 +6,7 @@
   "member_1": {
     "visto_register": "TRUE",
     "visto_book": "TRUE",
+    "vf_slot": "TRUE",
     "vf_register": "TRUE",
     "vf_book": "TRUE"
   },
