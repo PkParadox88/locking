@@ -16,6 +16,10 @@
   "member_3": {
     "visto_book": "TRUE"
   },
+  "member_4": {
+    "visto_register": "TRUE",
+    "visto_book": "TRUE"
+  },
   "blezber": {
     "vf_book": "TRUE"
   }
