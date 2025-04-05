@@ -1,26 +1,26 @@
 {
-  "auto_running": "True",
-  "auto_expire": "True",
-  "vf_run": "True",
-  "vf_slt": "True",
+  "auto_running": "False",
+  "auto_expire": "False",
+  "vf_run": "False",
+  "vf_slt": "False",
   "member_1": {
-    "visto_register": "TRUE",
-    "visto_book": "TRUE",
-    "vf_slot": "TRUE",
-    "vf_register": "TRUE",
-    "vf_book": "TRUE"
+    "visto_register": "False",
+    "visto_book": "False",
+    "vf_slot": "False",
+    "vf_register": "False",
+    "vf_book": "False"
   },
   "member_2": {
-    "vf_check": "TRUE"
+    "vf_check": "False"
   },
   "member_3": {
-    "visto_book": "TRUE"
+    "visto_book": "False"
   },
   "member_4": {
-    "visto_register": "TRUE",
-    "visto_book": "TRUE"
+    "visto_register": "False",
+    "visto_book": "False"
   },
   "blezber": {
-    "vf_book": "TRUE"
+    "vf_book": "False"
   }
 }
