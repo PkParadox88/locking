@@ -1,6 +1,6 @@
 {
-  "member_1": {
-    "vf_slot": "TRUE",
+  "member_01": {
+    "vf_slot": true,
     "vf_book": true
   }
 }
