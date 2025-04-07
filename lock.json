@@ -1,26 +1,6 @@
 {
-  "auto_running": "False",
-  "auto_expire": "False",
-  "vf_run": "False",
-  "vf_slt": "False",
-  "member_1": {
-    "visto_register": "False",
-    "visto_book": "False",
-    "vf_slot": "False",
-    "vf_register": "False",
-    "vf_book": "False"
-  },
-  "member_2": {
-    "vf_check": "False"
-  },
-  "member_3": {
-    "visto_book": "False"
-  },
-  "member_4": {
-    "visto_register": "False",
-    "visto_book": "False"
-  },
-  "blezber": {
-    "vf_book": "False"
+  "member_01": {
+    "vf_slot": true,
+    "vf_book": true
   }
 }
