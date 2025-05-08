@@ -6,20 +6,9 @@
     "pd_book": true
   },
   "member_02": {
-    "pd_book": true
+    "pd_book": false
   },
   "member_03": {
     "pd_book": true
-  },
-  "member_1": {
-    "visto_register": "TRUE",
-    "visto_book": "TRUE"
-  },
-  "member_3": {
-    "visto_book": "TRUE"
-  },
-  "member_4": {
-    "visto_register": "TRUE",
-    "visto_book": "TRUE"
   }
 }
