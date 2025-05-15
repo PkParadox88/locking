@@ -5,13 +5,13 @@
     "pd_reg": true,
     "pd_book": true
   },
-  "member_02": {
-    "pd_book": false
+  "member_002": {
+    "pd_book": true
   },
-  "member_03": {
-    "pd_book": false
+  "member_003": {
+    "pd_book": true
   },
-  "member_04": {
+  "member_004": {
     "pd_book": true
   }
 }
