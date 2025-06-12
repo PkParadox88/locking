@@ -1,4 +1,9 @@
 {
+  "member_01": {
+    "vf_slot": true,
+    "vf_book": true,
+    "pd_reg": true
+  },
   "member_001": {
     "vf_slot": true,
     "vf_book": true,
